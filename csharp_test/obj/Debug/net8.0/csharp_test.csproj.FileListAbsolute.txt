@@ -1,0 +1,14 @@
+/home/terry-liu/桌面/csharp_test/bin/Debug/net8.0/csharp_test
+/home/terry-liu/桌面/csharp_test/bin/Debug/net8.0/csharp_test.deps.json
+/home/terry-liu/桌面/csharp_test/bin/Debug/net8.0/csharp_test.runtimeconfig.json
+/home/terry-liu/桌面/csharp_test/bin/Debug/net8.0/csharp_test.dll
+/home/terry-liu/桌面/csharp_test/bin/Debug/net8.0/csharp_test.pdb
+/home/terry-liu/桌面/csharp_test/obj/Debug/net8.0/csharp_test.GeneratedMSBuildEditorConfig.editorconfig
+/home/terry-liu/桌面/csharp_test/obj/Debug/net8.0/csharp_test.AssemblyInfoInputs.cache
+/home/terry-liu/桌面/csharp_test/obj/Debug/net8.0/csharp_test.AssemblyInfo.cs
+/home/terry-liu/桌面/csharp_test/obj/Debug/net8.0/csharp_test.csproj.CoreCompileInputs.cache
+/home/terry-liu/桌面/csharp_test/obj/Debug/net8.0/csharp_test.dll
+/home/terry-liu/桌面/csharp_test/obj/Debug/net8.0/refint/csharp_test.dll
+/home/terry-liu/桌面/csharp_test/obj/Debug/net8.0/csharp_test.pdb
+/home/terry-liu/桌面/csharp_test/obj/Debug/net8.0/csharp_test.genruntimeconfig.cache
+/home/terry-liu/桌面/csharp_test/obj/Debug/net8.0/ref/csharp_test.dll

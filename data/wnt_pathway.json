@@ -1,0 +1,1790 @@
+{
+  "attribute": {
+    "name": "Wnt signaling pathway",
+    "href": "/api/1.0/attribute/Wnt+signaling+pathway"
+  },
+  "dataset": {
+    "name": "PANTHER Pathways",
+    "href": "/api/1.0/dataset/PANTHER+Pathways"
+  },
+  "associations": [
+    {
+      "gene": {
+        "symbol": "PCDHA12",
+        "href": "/api/1.0/gene/PCDHA12"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "FAT2",
+        "href": "/api/1.0/gene/FAT2"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "PCDHGB1",
+        "href": "/api/1.0/gene/PCDHGB1"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "CTNNA1",
+        "href": "/api/1.0/gene/CTNNA1"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "FRZB",
+        "href": "/api/1.0/gene/FRZB"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "PCDH10",
+        "href": "/api/1.0/gene/PCDH10"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "AES",
+        "href": "/api/1.0/gene/AES"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "ITPR2",
+        "href": "/api/1.0/gene/ITPR2"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "PCDH7",
+        "href": "/api/1.0/gene/PCDH7"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "TLE4",
+        "href": "/api/1.0/gene/TLE4"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "CSNK2B",
+        "href": "/api/1.0/gene/CSNK2B"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "GNG4",
+        "href": "/api/1.0/gene/GNG4"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "PCDHGB4",
+        "href": "/api/1.0/gene/PCDHGB4"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "WNT8A",
+        "href": "/api/1.0/gene/WNT8A"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "WNT9B",
+        "href": "/api/1.0/gene/WNT9B"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "TCF7L2",
+        "href": "/api/1.0/gene/TCF7L2"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "PCDHGA2",
+        "href": "/api/1.0/gene/PCDHGA2"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "GNG8",
+        "href": "/api/1.0/gene/GNG8"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "CDH5",
+        "href": "/api/1.0/gene/CDH5"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "PCDHB13",
+        "href": "/api/1.0/gene/PCDHB13"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "PYGO2",
+        "href": "/api/1.0/gene/PYGO2"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "CDH11",
+        "href": "/api/1.0/gene/CDH11"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "PCDHA11",
+        "href": "/api/1.0/gene/PCDHA11"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "EP400",
+        "href": "/api/1.0/gene/EP400"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "ARID1A",
+        "href": "/api/1.0/gene/ARID1A"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "CDH13",
+        "href": "/api/1.0/gene/CDH13"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "CSNK1G3",
+        "href": "/api/1.0/gene/CSNK1G3"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "SAG",
+        "href": "/api/1.0/gene/SAG"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "PPP2R5D",
+        "href": "/api/1.0/gene/PPP2R5D"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "PCDHB16",
+        "href": "/api/1.0/gene/PCDHB16"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "CSNK1G2",
+        "href": "/api/1.0/gene/CSNK1G2"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "PLCB2",
+        "href": "/api/1.0/gene/PLCB2"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "PCDHA8",
+        "href": "/api/1.0/gene/PCDHA8"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "ARRB1",
+        "href": "/api/1.0/gene/ARRB1"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "PCDHA5",
+        "href": "/api/1.0/gene/PCDHA5"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "GSK3B",
+        "href": "/api/1.0/gene/GSK3B"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "CSNK2A1",
+        "href": "/api/1.0/gene/CSNK2A1"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "DVL3",
+        "href": "/api/1.0/gene/DVL3"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "PCDHGA10",
+        "href": "/api/1.0/gene/PCDHGA10"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "SMARCA4",
+        "href": "/api/1.0/gene/SMARCA4"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "PCDH8",
+        "href": "/api/1.0/gene/PCDH8"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "PRKCE",
+        "href": "/api/1.0/gene/PRKCE"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "CDH17",
+        "href": "/api/1.0/gene/CDH17"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "FZD10",
+        "href": "/api/1.0/gene/FZD10"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "PPP3R1",
+        "href": "/api/1.0/gene/PPP3R1"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "PCDHB14",
+        "href": "/api/1.0/gene/PCDHB14"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "GNB4",
+        "href": "/api/1.0/gene/GNB4"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "CDH10",
+        "href": "/api/1.0/gene/CDH10"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "CDHR2",
+        "href": "/api/1.0/gene/CDHR2"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "NKD1",
+        "href": "/api/1.0/gene/NKD1"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "WNT1",
+        "href": "/api/1.0/gene/WNT1"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "SMARCA2",
+        "href": "/api/1.0/gene/SMARCA2"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "CELSR1",
+        "href": "/api/1.0/gene/CELSR1"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "ITPR3",
+        "href": "/api/1.0/gene/ITPR3"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "NFATC1",
+        "href": "/api/1.0/gene/NFATC1"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "PCDHB2",
+        "href": "/api/1.0/gene/PCDHB2"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "FZD7",
+        "href": "/api/1.0/gene/FZD7"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "FZD6",
+        "href": "/api/1.0/gene/FZD6"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "PCDHB5",
+        "href": "/api/1.0/gene/PCDHB5"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "CDH24",
+        "href": "/api/1.0/gene/CDH24"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "HDAC3",
+        "href": "/api/1.0/gene/HDAC3"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "NKD2",
+        "href": "/api/1.0/gene/NKD2"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "TLE3",
+        "href": "/api/1.0/gene/TLE3"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "FZD8",
+        "href": "/api/1.0/gene/FZD8"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "SRCAP",
+        "href": "/api/1.0/gene/SRCAP"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "PPP2R5C",
+        "href": "/api/1.0/gene/PPP2R5C"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "PRKCI",
+        "href": "/api/1.0/gene/PRKCI"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "WNT11",
+        "href": "/api/1.0/gene/WNT11"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "EP300",
+        "href": "/api/1.0/gene/EP300"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "PCDH9",
+        "href": "/api/1.0/gene/PCDH9"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "PCDHAC2",
+        "href": "/api/1.0/gene/PCDHAC2"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "PCDHAC1",
+        "href": "/api/1.0/gene/PCDHAC1"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "PRKCZ",
+        "href": "/api/1.0/gene/PRKCZ"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "PCDHA4",
+        "href": "/api/1.0/gene/PCDHA4"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "PCDHGA8",
+        "href": "/api/1.0/gene/PCDHGA8"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "TBL1X",
+        "href": "/api/1.0/gene/TBL1X"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "PPP3R2",
+        "href": "/api/1.0/gene/PPP3R2"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "HDAC8",
+        "href": "/api/1.0/gene/HDAC8"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "WNT4",
+        "href": "/api/1.0/gene/WNT4"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "ARRB2",
+        "href": "/api/1.0/gene/ARRB2"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "CDH23",
+        "href": "/api/1.0/gene/CDH23"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "FAT1",
+        "href": "/api/1.0/gene/FAT1"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "CDH1",
+        "href": "/api/1.0/gene/CDH1"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "HELLS",
+        "href": "/api/1.0/gene/HELLS"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "SMAD1",
+        "href": "/api/1.0/gene/SMAD1"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "PCDHB1",
+        "href": "/api/1.0/gene/PCDHB1"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "CTNNA3",
+        "href": "/api/1.0/gene/CTNNA3"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "CDH16",
+        "href": "/api/1.0/gene/CDH16"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "AXIN1",
+        "href": "/api/1.0/gene/AXIN1"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "CTNNA2",
+        "href": "/api/1.0/gene/CTNNA2"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "PCDHGB7",
+        "href": "/api/1.0/gene/PCDHGB7"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "WNT10B",
+        "href": "/api/1.0/gene/WNT10B"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "CDH12",
+        "href": "/api/1.0/gene/CDH12"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "LRP5",
+        "href": "/api/1.0/gene/LRP5"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "CDH15",
+        "href": "/api/1.0/gene/CDH15"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "NFATC4",
+        "href": "/api/1.0/gene/NFATC4"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "CDH2",
+        "href": "/api/1.0/gene/CDH2"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "CDH8",
+        "href": "/api/1.0/gene/CDH8"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "ARR3",
+        "href": "/api/1.0/gene/ARR3"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "CDH22",
+        "href": "/api/1.0/gene/CDH22"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "GNA15",
+        "href": "/api/1.0/gene/GNA15"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "CDH18",
+        "href": "/api/1.0/gene/CDH18"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "NFATC3",
+        "href": "/api/1.0/gene/NFATC3"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "PCDH12",
+        "href": "/api/1.0/gene/PCDH12"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "WNT16",
+        "href": "/api/1.0/gene/WNT16"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "PPP2CA",
+        "href": "/api/1.0/gene/PPP2CA"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "CTBP2",
+        "href": "/api/1.0/gene/CTBP2"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "WNT8B",
+        "href": "/api/1.0/gene/WNT8B"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "CTNNAL1",
+        "href": "/api/1.0/gene/CTNNAL1"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "FAT3",
+        "href": "/api/1.0/gene/FAT3"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "PPP2R5A",
+        "href": "/api/1.0/gene/PPP2R5A"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "PRKCB",
+        "href": "/api/1.0/gene/PRKCB"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "HDAC2",
+        "href": "/api/1.0/gene/HDAC2"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "TLE2",
+        "href": "/api/1.0/gene/TLE2"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "WNT7A",
+        "href": "/api/1.0/gene/WNT7A"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "SMARCAL1",
+        "href": "/api/1.0/gene/SMARCAL1"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "SFRP1",
+        "href": "/api/1.0/gene/SFRP1"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "PCDHGA6",
+        "href": "/api/1.0/gene/PCDHGA6"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "CSNK1A1",
+        "href": "/api/1.0/gene/CSNK1A1"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "GNG2",
+        "href": "/api/1.0/gene/GNG2"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "CDH3",
+        "href": "/api/1.0/gene/CDH3"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "SMARCD3",
+        "href": "/api/1.0/gene/SMARCD3"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "PPP3CB",
+        "href": "/api/1.0/gene/PPP3CB"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "WNT6",
+        "href": "/api/1.0/gene/WNT6"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "CHD1L",
+        "href": "/api/1.0/gene/CHD1L"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "PCDH11Y",
+        "href": "/api/1.0/gene/PCDH11Y"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "GNA14",
+        "href": "/api/1.0/gene/GNA14"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "PCDHA9",
+        "href": "/api/1.0/gene/PCDHA9"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "FZD1",
+        "href": "/api/1.0/gene/FZD1"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "PCDHGA1",
+        "href": "/api/1.0/gene/PCDHGA1"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "CSNK2A2",
+        "href": "/api/1.0/gene/CSNK2A2"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "GNB2",
+        "href": "/api/1.0/gene/GNB2"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "SFRP2",
+        "href": "/api/1.0/gene/SFRP2"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "PCDH20",
+        "href": "/api/1.0/gene/PCDH20"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "PCDHGA5",
+        "href": "/api/1.0/gene/PCDHGA5"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "PCDH1",
+        "href": "/api/1.0/gene/PCDH1"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "NFATC2",
+        "href": "/api/1.0/gene/NFATC2"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "PCDHB7",
+        "href": "/api/1.0/gene/PCDHB7"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "NLK",
+        "href": "/api/1.0/gene/NLK"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "WNT3",
+        "href": "/api/1.0/gene/WNT3"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "WNT5A",
+        "href": "/api/1.0/gene/WNT5A"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "FZD2",
+        "href": "/api/1.0/gene/FZD2"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "PRKCH",
+        "href": "/api/1.0/gene/PRKCH"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "PCDHB11",
+        "href": "/api/1.0/gene/PCDHB11"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "CREBBP",
+        "href": "/api/1.0/gene/CREBBP"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "SMARCC2",
+        "href": "/api/1.0/gene/SMARCC2"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "SIAH1",
+        "href": "/api/1.0/gene/SIAH1"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "FZD4",
+        "href": "/api/1.0/gene/FZD4"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "PPP2R5B",
+        "href": "/api/1.0/gene/PPP2R5B"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "FBXW11",
+        "href": "/api/1.0/gene/FBXW11"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "GNG3",
+        "href": "/api/1.0/gene/GNG3"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "WNT2",
+        "href": "/api/1.0/gene/WNT2"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "PCDHGA11",
+        "href": "/api/1.0/gene/PCDHGA11"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "PPP3CA",
+        "href": "/api/1.0/gene/PPP3CA"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "FZD9",
+        "href": "/api/1.0/gene/FZD9"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "WNT2B",
+        "href": "/api/1.0/gene/WNT2B"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "PCDHGB6",
+        "href": "/api/1.0/gene/PCDHGB6"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "PCDHGA12",
+        "href": "/api/1.0/gene/PCDHGA12"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "PCDHA7",
+        "href": "/api/1.0/gene/PCDHA7"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "KREMEN2",
+        "href": "/api/1.0/gene/KREMEN2"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "PPP2CB",
+        "href": "/api/1.0/gene/PPP2CB"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "MAP3K7",
+        "href": "/api/1.0/gene/MAP3K7"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "WNT5B",
+        "href": "/api/1.0/gene/WNT5B"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "PCDHB4",
+        "href": "/api/1.0/gene/PCDHB4"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "WNT7B",
+        "href": "/api/1.0/gene/WNT7B"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "PLCB3",
+        "href": "/api/1.0/gene/PLCB3"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "DVL1",
+        "href": "/api/1.0/gene/DVL1"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "SMAD4",
+        "href": "/api/1.0/gene/SMAD4"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "PCDHA1",
+        "href": "/api/1.0/gene/PCDHA1"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "ITPR1",
+        "href": "/api/1.0/gene/ITPR1"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "GNG7",
+        "href": "/api/1.0/gene/GNG7"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "PRKCD",
+        "href": "/api/1.0/gene/PRKCD"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "BCL9",
+        "href": "/api/1.0/gene/BCL9"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "DCHS1",
+        "href": "/api/1.0/gene/DCHS1"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "PCDHB15",
+        "href": "/api/1.0/gene/PCDHB15"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "TCF7L1",
+        "href": "/api/1.0/gene/TCF7L1"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "TLE6",
+        "href": "/api/1.0/gene/TLE6"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "SMARCA5",
+        "href": "/api/1.0/gene/SMARCA5"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "PRKCG",
+        "href": "/api/1.0/gene/PRKCG"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "SFRP5",
+        "href": "/api/1.0/gene/SFRP5"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "LEF1",
+        "href": "/api/1.0/gene/LEF1"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "WNT9A",
+        "href": "/api/1.0/gene/WNT9A"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "CDHR1",
+        "href": "/api/1.0/gene/CDHR1"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "PCDHB6",
+        "href": "/api/1.0/gene/PCDHB6"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "SMARCA1",
+        "href": "/api/1.0/gene/SMARCA1"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "PRKCA",
+        "href": "/api/1.0/gene/PRKCA"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "PPP2R5E",
+        "href": "/api/1.0/gene/PPP2R5E"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "DACT1",
+        "href": "/api/1.0/gene/DACT1"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "PCDHGB2",
+        "href": "/api/1.0/gene/PCDHGB2"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "LRP6",
+        "href": "/api/1.0/gene/LRP6"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "GNG12",
+        "href": "/api/1.0/gene/GNG12"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "TBL1XR1",
+        "href": "/api/1.0/gene/TBL1XR1"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "SMARCC1",
+        "href": "/api/1.0/gene/SMARCC1"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "PRKCQ",
+        "href": "/api/1.0/gene/PRKCQ"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "SMARCB1",
+        "href": "/api/1.0/gene/SMARCB1"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "PCDHA10",
+        "href": "/api/1.0/gene/PCDHA10"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "SMARCD1",
+        "href": "/api/1.0/gene/SMARCD1"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "GNA11",
+        "href": "/api/1.0/gene/GNA11"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "TBL1Y",
+        "href": "/api/1.0/gene/TBL1Y"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "PPP3CC",
+        "href": "/api/1.0/gene/PPP3CC"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "FZD3",
+        "href": "/api/1.0/gene/FZD3"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "GNB1",
+        "href": "/api/1.0/gene/GNB1"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "PCDHGA3",
+        "href": "/api/1.0/gene/PCDHGA3"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "CSNK1D",
+        "href": "/api/1.0/gene/CSNK1D"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "CDH9",
+        "href": "/api/1.0/gene/CDH9"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "PCDH19",
+        "href": "/api/1.0/gene/PCDH19"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "SMARCD2",
+        "href": "/api/1.0/gene/SMARCD2"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "PCDHA6",
+        "href": "/api/1.0/gene/PCDHA6"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "PCDHB3",
+        "href": "/api/1.0/gene/PCDHB3"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "HLTF",
+        "href": "/api/1.0/gene/HLTF"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "PCDHB8",
+        "href": "/api/1.0/gene/PCDHB8"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "HDAC1",
+        "href": "/api/1.0/gene/HDAC1"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "PYGO1",
+        "href": "/api/1.0/gene/PYGO1"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "CDH19",
+        "href": "/api/1.0/gene/CDH19"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "GNG5",
+        "href": "/api/1.0/gene/GNG5"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "PCDH15",
+        "href": "/api/1.0/gene/PCDH15"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "GNAQ",
+        "href": "/api/1.0/gene/GNAQ"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "CDH4",
+        "href": "/api/1.0/gene/CDH4"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "PCDHGC5",
+        "href": "/api/1.0/gene/PCDHGC5"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "CELSR2",
+        "href": "/api/1.0/gene/CELSR2"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "WNT10A",
+        "href": "/api/1.0/gene/WNT10A"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "PLCB4",
+        "href": "/api/1.0/gene/PLCB4"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "PCDHGA7",
+        "href": "/api/1.0/gene/PCDHGA7"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "PCDH11X",
+        "href": "/api/1.0/gene/PCDH11X"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "PCDHB10",
+        "href": "/api/1.0/gene/PCDHB10"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "CTBP1",
+        "href": "/api/1.0/gene/CTBP1"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "CTNNB1",
+        "href": "/api/1.0/gene/CTNNB1"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "SMARCE1",
+        "href": "/api/1.0/gene/SMARCE1"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "WNT3A",
+        "href": "/api/1.0/gene/WNT3A"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "CDH6",
+        "href": "/api/1.0/gene/CDH6"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "PCDHA3",
+        "href": "/api/1.0/gene/PCDHA3"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "PCDHA2",
+        "href": "/api/1.0/gene/PCDHA2"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "PCDHGC3",
+        "href": "/api/1.0/gene/PCDHGC3"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "CDH20",
+        "href": "/api/1.0/gene/CDH20"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "INO80",
+        "href": "/api/1.0/gene/INO80"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "DVL2",
+        "href": "/api/1.0/gene/DVL2"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "BTRC",
+        "href": "/api/1.0/gene/BTRC"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "PCDHB12",
+        "href": "/api/1.0/gene/PCDHB12"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "PLCB1",
+        "href": "/api/1.0/gene/PLCB1"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "KREMEN1",
+        "href": "/api/1.0/gene/KREMEN1"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "GNG13",
+        "href": "/api/1.0/gene/GNG13"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "SFRP4",
+        "href": "/api/1.0/gene/SFRP4"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "GNB3",
+        "href": "/api/1.0/gene/GNB3"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "FZD5",
+        "href": "/api/1.0/gene/FZD5"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "PCDH18",
+        "href": "/api/1.0/gene/PCDH18"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "CSNK1A1L",
+        "href": "/api/1.0/gene/CSNK1A1L"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "PCDHA13",
+        "href": "/api/1.0/gene/PCDHA13"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "TLE1",
+        "href": "/api/1.0/gene/TLE1"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "GNG10",
+        "href": "/api/1.0/gene/GNG10"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "CDH7",
+        "href": "/api/1.0/gene/CDH7"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "PCDHGC4",
+        "href": "/api/1.0/gene/PCDHGC4"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "CELSR3",
+        "href": "/api/1.0/gene/CELSR3"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "ANKRD6",
+        "href": "/api/1.0/gene/ANKRD6"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "CER1",
+        "href": "/api/1.0/gene/CER1"
+      },
+      "thresholdValue": 1
+    }
+  ]
+}

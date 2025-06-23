@@ -1,0 +1,621 @@
+{
+  "attribute": {
+    "name": "TGF-beta signaling pathway",
+    "href": "/api/1.0/attribute/TGF-beta+signaling+pathway"
+  },
+  "dataset": {
+    "name": "PANTHER Pathways",
+    "href": "/api/1.0/dataset/PANTHER+Pathways"
+  },
+  "associations": [
+    {
+      "gene": {
+        "symbol": "CITED1",
+        "href": "/api/1.0/gene/CITED1"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "MSTN",
+        "href": "/api/1.0/gene/MSTN"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "BMP3",
+        "href": "/api/1.0/gene/BMP3"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "SMAD9",
+        "href": "/api/1.0/gene/SMAD9"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "FOXH1",
+        "href": "/api/1.0/gene/FOXH1"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "BMP8A",
+        "href": "/api/1.0/gene/BMP8A"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "BMP8B",
+        "href": "/api/1.0/gene/BMP8B"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "INHBE",
+        "href": "/api/1.0/gene/INHBE"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "BAMBI",
+        "href": "/api/1.0/gene/BAMBI"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "GDF2",
+        "href": "/api/1.0/gene/GDF2"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "SNIP1",
+        "href": "/api/1.0/gene/SNIP1"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "SMAD7",
+        "href": "/api/1.0/gene/SMAD7"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "BMP4",
+        "href": "/api/1.0/gene/BMP4"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "HRAS",
+        "href": "/api/1.0/gene/HRAS"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "BMP5",
+        "href": "/api/1.0/gene/BMP5"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "CREBBP",
+        "href": "/api/1.0/gene/CREBBP"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "SMAD3",
+        "href": "/api/1.0/gene/SMAD3"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "MAPK12",
+        "href": "/api/1.0/gene/MAPK12"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "MAPK11",
+        "href": "/api/1.0/gene/MAPK11"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "MAPK13",
+        "href": "/api/1.0/gene/MAPK13"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "RRAS",
+        "href": "/api/1.0/gene/RRAS"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "INHBC",
+        "href": "/api/1.0/gene/INHBC"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "TGFBR1",
+        "href": "/api/1.0/gene/TGFBR1"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "TLL2",
+        "href": "/api/1.0/gene/TLL2"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "MAP3K7",
+        "href": "/api/1.0/gene/MAP3K7"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "BMP6",
+        "href": "/api/1.0/gene/BMP6"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "JUNB",
+        "href": "/api/1.0/gene/JUNB"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "FOSL1",
+        "href": "/api/1.0/gene/FOSL1"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "SKI",
+        "href": "/api/1.0/gene/SKI"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "MAP3K7CL",
+        "href": "/api/1.0/gene/MAP3K7CL"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "GDF11",
+        "href": "/api/1.0/gene/GDF11"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "GDF7",
+        "href": "/api/1.0/gene/GDF7"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "BMPR1B",
+        "href": "/api/1.0/gene/BMPR1B"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "MAPK8",
+        "href": "/api/1.0/gene/MAPK8"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "GDNF",
+        "href": "/api/1.0/gene/GDNF"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "NRAS",
+        "href": "/api/1.0/gene/NRAS"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "ACVR1C",
+        "href": "/api/1.0/gene/ACVR1C"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "BMP15",
+        "href": "/api/1.0/gene/BMP15"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "MAPK3",
+        "href": "/api/1.0/gene/MAPK3"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "ACVRL1",
+        "href": "/api/1.0/gene/ACVRL1"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "AMHR2",
+        "href": "/api/1.0/gene/AMHR2"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "SMAD2",
+        "href": "/api/1.0/gene/SMAD2"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "SMURF1",
+        "href": "/api/1.0/gene/SMURF1"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "SMAD4",
+        "href": "/api/1.0/gene/SMAD4"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "BMP7",
+        "href": "/api/1.0/gene/BMP7"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "BMP1",
+        "href": "/api/1.0/gene/BMP1"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "ACVR2B",
+        "href": "/api/1.0/gene/ACVR2B"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "LEFTY2",
+        "href": "/api/1.0/gene/LEFTY2"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "CITED2",
+        "href": "/api/1.0/gene/CITED2"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "INHBB",
+        "href": "/api/1.0/gene/INHBB"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "GDF5",
+        "href": "/api/1.0/gene/GDF5"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "ACVR1B",
+        "href": "/api/1.0/gene/ACVR1B"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "MAPK14",
+        "href": "/api/1.0/gene/MAPK14"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "SKIL",
+        "href": "/api/1.0/gene/SKIL"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "SMAD1",
+        "href": "/api/1.0/gene/SMAD1"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "GDF15",
+        "href": "/api/1.0/gene/GDF15"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "SMURF2",
+        "href": "/api/1.0/gene/SMURF2"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "NODAL",
+        "href": "/api/1.0/gene/NODAL"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "SMAD6",
+        "href": "/api/1.0/gene/SMAD6"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "TGFB3",
+        "href": "/api/1.0/gene/TGFB3"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "JUN",
+        "href": "/api/1.0/gene/JUN"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "ZFYVE9",
+        "href": "/api/1.0/gene/ZFYVE9"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "TGFB2",
+        "href": "/api/1.0/gene/TGFB2"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "DCP1B",
+        "href": "/api/1.0/gene/DCP1B"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "BMP10",
+        "href": "/api/1.0/gene/BMP10"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "GDF1",
+        "href": "/api/1.0/gene/GDF1"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "ATF2",
+        "href": "/api/1.0/gene/ATF2"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "ACVR2A",
+        "href": "/api/1.0/gene/ACVR2A"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "GDF9",
+        "href": "/api/1.0/gene/GDF9"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "GDF3",
+        "href": "/api/1.0/gene/GDF3"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "GDF10",
+        "href": "/api/1.0/gene/GDF10"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "TAB1",
+        "href": "/api/1.0/gene/TAB1"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "MAPK10",
+        "href": "/api/1.0/gene/MAPK10"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "MAPK1",
+        "href": "/api/1.0/gene/MAPK1"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "MAPK9",
+        "href": "/api/1.0/gene/MAPK9"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "ACVR1",
+        "href": "/api/1.0/gene/ACVR1"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "BMPR2",
+        "href": "/api/1.0/gene/BMPR2"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "TLL1",
+        "href": "/api/1.0/gene/TLL1"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "BMPR1A",
+        "href": "/api/1.0/gene/BMPR1A"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "JUND",
+        "href": "/api/1.0/gene/JUND"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "EP300",
+        "href": "/api/1.0/gene/EP300"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "FKBP1A",
+        "href": "/api/1.0/gene/FKBP1A"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "LEFTY1",
+        "href": "/api/1.0/gene/LEFTY1"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "BMP2",
+        "href": "/api/1.0/gene/BMP2"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "INHBA",
+        "href": "/api/1.0/gene/INHBA"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "GDF6",
+        "href": "/api/1.0/gene/GDF6"
+      },
+      "thresholdValue": 1
+    },
+    {
+      "gene": {
+        "symbol": "TGFBR2",
+        "href": "/api/1.0/gene/TGFBR2"
+      },
+      "thresholdValue": 1
+    }
+  ]
+}
